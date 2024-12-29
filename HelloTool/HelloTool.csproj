@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>HelloTool</PackageId>
+    <Authors>Dejan Đenić</Authors>
+    <Company>dejandjenic@gmail.com</Company>
+    <Product>HelloTool</Product>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/dejandjenic/hello-tool</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
