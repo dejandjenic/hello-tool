@@ -6,6 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>hello</ToolCommandName>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
+
 
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>HelloTool</PackageId>
