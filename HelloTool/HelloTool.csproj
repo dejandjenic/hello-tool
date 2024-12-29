@@ -16,12 +16,6 @@
     <PackageProjectUrl>https://github.com/dejandjenic/hello-tool</PackageProjectUrl>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Update="README.md">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 
   <ItemGroup>
 
